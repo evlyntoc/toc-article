@@ -3,7 +3,7 @@
         <div class="container header_container">
             <div class="logo">
                 <router-link to="/">
-                    GameSpot
+                    TOC ARTICLE
                 </router-link>
             </div>
             <div>
